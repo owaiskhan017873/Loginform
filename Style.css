@@ -1,0 +1,58 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+  text-align: center;
+  justify-content: center;
+}
+body{
+  height:100vh;
+  width:100vw;
+ /*  background-color: rgb(24, 25, 26); */
+background-color:#0E202D;
+}
+#language > select {
+ margin-top:3%;
+  padding:0px 0px;
+  border:none;
+  /* background-color: rgb(24, 25, 26); */
+background-color:#0E202D;
+  color:white;
+  font-size:1.2em;
+  cursor: pointer;
+}
+.facebookicon{
+  width:120px;
+  height:120px;
+  margin-top:20%;
+}
+.form{
+  margin:5px 5px 5px 8px;
+  padding:20px 15px;
+  border:1px solid rgb(169,169,169);
+  border-radius:15px;
+  /* background-color: rgb(23, 24, 25); */
+  background-color:#0E202D;
+  display:block;
+  width:96%;
+  outline: none;
+}
+#login{
+  background-color:#295396;
+  cursor: pointer;
+}
+p{
+  margin-top:15px;
+  color:white;
+  cursor: pointer;
+}
+#create{
+  margin-top:200px;
+  border: 1px solid #295396 ;
+  color:#295396;
+  cursor: pointer;
+}
+#meta{
+  width:100px;
+  height:100px;
+}
